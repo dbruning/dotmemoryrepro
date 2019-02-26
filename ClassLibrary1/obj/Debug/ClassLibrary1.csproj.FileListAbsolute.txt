@@ -1,0 +1,17 @@
+C:\Users\darren\Documents\dotmemoryrepro\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\darren\Documents\dotmemoryrepro\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\darren\Documents\dotmemoryrepro\ClassLibrary1\bin\Debug\dotMemory.Unit.dll
+C:\Users\darren\Documents\dotmemoryrepro\ClassLibrary1\bin\Debug\xunit.abstractions.dll
+C:\Users\darren\Documents\dotmemoryrepro\ClassLibrary1\bin\Debug\xunit.assert.dll
+C:\Users\darren\Documents\dotmemoryrepro\ClassLibrary1\bin\Debug\xunit.core.dll
+C:\Users\darren\Documents\dotmemoryrepro\ClassLibrary1\bin\Debug\xunit.execution.desktop.dll
+C:\Users\darren\Documents\dotmemoryrepro\ClassLibrary1\bin\Debug\dotMemory.Unit.xml
+C:\Users\darren\Documents\dotmemoryrepro\ClassLibrary1\bin\Debug\xunit.abstractions.xml
+C:\Users\darren\Documents\dotmemoryrepro\ClassLibrary1\bin\Debug\xunit.assert.xml
+C:\Users\darren\Documents\dotmemoryrepro\ClassLibrary1\bin\Debug\xunit.core.xml
+C:\Users\darren\Documents\dotmemoryrepro\ClassLibrary1\bin\Debug\xunit.execution.desktop.xml
+C:\Users\darren\Documents\dotmemoryrepro\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+C:\Users\darren\Documents\dotmemoryrepro\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\darren\Documents\dotmemoryrepro\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CopyComplete
+C:\Users\darren\Documents\dotmemoryrepro\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\darren\Documents\dotmemoryrepro\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
