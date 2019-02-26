@@ -1,0 +1,8 @@
+framework: net471
+
+source https://api.nuget.org/v3/index.json
+
+cache ./.nupkgs versions:current
+
+nuget JetBrains.DotMemoryUnit
+nuget xunit 

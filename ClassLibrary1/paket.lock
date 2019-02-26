@@ -1,0 +1,18 @@
+RESTRICTION: == net471
+NUGET
+  remote: https://api.nuget.org/v3/index.json
+    JetBrains.DotMemoryUnit (3.0.20171219.105559)
+    xunit (2.4.1)
+      xunit.analyzers (>= 0.10)
+      xunit.assert (2.4.1)
+      xunit.core (2.4.1)
+    xunit.abstractions (2.0.3)
+    xunit.analyzers (0.10)
+    xunit.assert (2.4.1)
+    xunit.core (2.4.1)
+      xunit.extensibility.core (2.4.1)
+      xunit.extensibility.execution (2.4.1)
+    xunit.extensibility.core (2.4.1)
+      xunit.abstractions (>= 2.0.3)
+    xunit.extensibility.execution (2.4.1)
+      xunit.extensibility.core (2.4.1)

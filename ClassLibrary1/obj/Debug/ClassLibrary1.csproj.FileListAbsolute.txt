@@ -15,3 +15,17 @@ C:\Users\darren\Documents\dotmemoryrepro\ClassLibrary1\obj\Debug\ClassLibrary1.c
 C:\Users\darren\Documents\dotmemoryrepro\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CopyComplete
 C:\Users\darren\Documents\dotmemoryrepro\ClassLibrary1\obj\Debug\ClassLibrary1.dll
 C:\Users\darren\Documents\dotmemoryrepro\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\darren\Documents\dotmemoryrepro\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+C:\Users\darren\Documents\dotmemoryrepro\ClassLibrary1\bin\Debug\System.Data.Common.dll
+C:\Users\darren\Documents\dotmemoryrepro\ClassLibrary1\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\darren\Documents\dotmemoryrepro\ClassLibrary1\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\darren\Documents\dotmemoryrepro\ClassLibrary1\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\darren\Documents\dotmemoryrepro\ClassLibrary1\bin\Debug\System.IO.Compression.dll
+C:\Users\darren\Documents\dotmemoryrepro\ClassLibrary1\bin\Debug\System.Net.Http.dll
+C:\Users\darren\Documents\dotmemoryrepro\ClassLibrary1\bin\Debug\System.Net.Sockets.dll
+C:\Users\darren\Documents\dotmemoryrepro\ClassLibrary1\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\darren\Documents\dotmemoryrepro\ClassLibrary1\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\darren\Documents\dotmemoryrepro\ClassLibrary1\bin\Debug\System.Security.SecureString.dll
+C:\Users\darren\Documents\dotmemoryrepro\ClassLibrary1\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\darren\Documents\dotmemoryrepro\ClassLibrary1\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\darren\Documents\dotmemoryrepro\ClassLibrary1\obj\Debug\ClassLibrary1.dll.config
